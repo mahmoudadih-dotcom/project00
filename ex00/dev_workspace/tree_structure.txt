@@ -1,0 +1,41 @@
+.:
+total 4
+drwxr-xr-x  5 madih _amman   77 Oct  3 14:30 .
+drwx------ 20 madih _amman 4096 Oct  3 14:30 ..
+drwxr-xr-x  2 madih _amman    6 Oct  3 14:30 archives
+drwxr-xr-x  3 madih _amman   17 Oct  3 14:30 projects
+drwxr-xr-x  2 madih _amman    6 Oct  3 14:30 tools
+-rw-r--r--  1 madih _amman    0 Oct  3 14:30 tree_structure.txt
+
+./archives:
+total 0
+drwxr-xr-x 2 madih _amman  6 Oct  3 14:30 .
+drwxr-xr-x 5 madih _amman 77 Oct  3 14:30 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 madih _amman 17 Oct  3 14:30 .
+drwxr-xr-x 5 madih _amman 77 Oct  3 14:30 ..
+drwxr-xr-x 4 madih _amman 37 Oct  3 14:30 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 madih _amman 37 Oct  3 14:30 .
+drwxr-xr-x 3 madih _amman 17 Oct  3 14:30 ..
+drwxr-xr-x 2 madih _amman  6 Oct  3 14:30 backend
+drwxr-xr-x 2 madih _amman  6 Oct  3 14:30 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 madih _amman  6 Oct  3 14:30 .
+drwxr-xr-x 4 madih _amman 37 Oct  3 14:30 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 madih _amman  6 Oct  3 14:30 .
+drwxr-xr-x 4 madih _amman 37 Oct  3 14:30 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 madih _amman  6 Oct  3 14:30 .
+drwxr-xr-x 5 madih _amman 77 Oct  3 14:30 ..
