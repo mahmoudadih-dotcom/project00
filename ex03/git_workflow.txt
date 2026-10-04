@@ -1,0 +1,6 @@
+Git Cycle Workflow:
+
+1. Edit: Modify files or create new code in the working directory.
+2. Add: Stage the modified files to prepare them for commit using `git add <file>`.
+3. Commit: Capture a permanent snapshot of the staged changes into the local repository using `git commit -m "commit message"`.
+4. Push: Upload local branch commits to the remote repository on GitHub using `git push origin <branch_name>`.
